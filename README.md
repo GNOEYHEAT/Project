@@ -1,2 +1,2 @@
 # KU-AI 4.0
-* 바이오 의료 빅데이터 분석 및 활용 과정
+https://kuai4.korea.ac.kr/kuai/major/2018_BD.do
